@@ -3,6 +3,10 @@
   "version": "0.0.0",
   "type": "module",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lapikit/eslint-config-lapikit"
+  },
   "peerDependencies": {
     "lapikit": ">=0.5.0"
   }
