@@ -8,7 +8,7 @@ env:
   NODE_VERSION: "lts/*"
   BUN_VERSION: "latest"
   RELEASE_CHANNEL: public
-  PACKAGE_NAME: lapikit
+  PACKAGE_NAME: eslint-config-lapikit
 
 jobs:
   prerelease:
