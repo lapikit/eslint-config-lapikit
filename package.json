@@ -1,0 +1,9 @@
+{
+  "name": "eslint-config-lapikit",
+  "version": "0.0.0",
+  "type": "module",
+  "main": "index.js",
+  "peerDependencies": {
+    "lapikit": ">=0.5.0"
+  }
+}
