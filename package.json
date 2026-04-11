@@ -1,13 +1,36 @@
 {
   "name": "eslint-config-lapikit",
-  "version": "0.0.0",
-  "type": "module",
-  "main": "index.js",
+  "version": "0.0.1",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://lapikit.dev",
   "repository": {
     "type": "git",
     "url": "https://github.com/lapikit/eslint-config-lapikit"
   },
+  "author": {
+    "name": "Nycolaide",
+    "email": "contact@lapikit.dev"
+  },
+  "funding": "https://buymeacoffee.com/nycolaide",
+  "bugs": "https://github.com/lapikit/eslint-config-lapikit/issues",
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE",
+    "package.json"
+  ],
+  "type": "module",
+  "main": "index.js",
   "peerDependencies": {
     "lapikit": ">=0.5.0"
-  }
+  },
+  "keywords": [
+    "svelte",
+    "eslint",
+    "configuration",
+    "lapikit"
+  ]
 }

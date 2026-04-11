@@ -16,13 +16,6 @@ jobs:
       - name: install jq on env
         run: sudo apt-get install jq
 
-      - name: install dependencies
-        run: bun install
-
-      - name: build
-        run: |
-          bun run build
-
       - name: get package version from package.json
         id: package-version
         run: |
