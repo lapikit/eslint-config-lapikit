@@ -9,6 +9,8 @@ const LAPIKIT_SNIPPETS = [
   "close",
   "load",
   "tooltip",
+  "prependInner",
+  "appendInner",
 ];
 
 export default [
