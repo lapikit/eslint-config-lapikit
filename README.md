@@ -86,6 +86,8 @@ The following snippet names are recognized as Lapikit reserved snippets and will
 - `close`
 - `load`
 - `tooltip`
+- `prependInner`,
+- `appendInner`
 
 ## Known Limitations
 
