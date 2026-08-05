@@ -25,7 +25,7 @@
   "type": "module",
   "main": "index.js",
   "peerDependencies": {
-    "lapikit": ">=0.5.0"
+    "lapikit": ">=0.6.2"
   },
   "keywords": [
     "svelte",
