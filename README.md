@@ -12,7 +12,7 @@ This package configures ESLint to ignore these false positives so you can focus 
 
 - ESLint `>=9.0.0` (flat config)
 - `@typescript-eslint/eslint-plugin` `>=6.0.0`
-- `lapikit` `>=0.5.0`
+- `lapikit` `>=0.6.2`
 
 ## Installation
 

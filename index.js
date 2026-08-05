@@ -1,5 +1,5 @@
 // eslint.config.js
-import { lapikitPreprocess } from "lapikit/labs/preprocess";
+import { lapikitPreprocess } from "lapikit/preprocess";
 
 const LAPIKIT_SNIPPETS = [
   "activator",
