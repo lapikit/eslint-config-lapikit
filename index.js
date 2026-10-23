@@ -11,6 +11,7 @@ const LAPIKIT_SNIPPETS = [
   "tooltip",
   "prependInner",
   "appendInner",
+  "children",
 ];
 
 export default [
