@@ -86,8 +86,9 @@ The following snippet names are recognized as Lapikit reserved snippets and will
 - `close`
 - `load`
 - `tooltip`
-- `prependInner`,
+- `prependInner`
 - `appendInner`
+- `children` (with a parameter, for example the attributes of the control of `kit:field`)
 
 ## Known Limitations
 
