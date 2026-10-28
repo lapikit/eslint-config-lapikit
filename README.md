@@ -80,6 +80,7 @@ This config applies the following rules to all `**/*.svelte` files:
 The following snippet names are recognized as Lapikit reserved snippets and will not be flagged as unused:
 
 - `activator`
+- `trigger`
 - `indicator`
 - `append`
 - `prepend`
