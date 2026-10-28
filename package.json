@@ -5,7 +5,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://lapikit.dev",
+  "homepage": "https://lapikit.dev/docs/environments",
   "repository": {
     "type": "git",
     "url": "https://github.com/lapikit/eslint-config-lapikit"
