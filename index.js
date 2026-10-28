@@ -3,6 +3,7 @@ import { lapikitPreprocess } from "lapikit/preprocess";
 
 const LAPIKIT_SNIPPETS = [
   "activator",
+  "trigger",
   "indicator",
   "append",
   "prepend",

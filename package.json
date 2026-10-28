@@ -1,11 +1,11 @@
 {
   "name": "eslint-config-lapikit",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://lapikit.dev",
+  "homepage": "https://lapikit.dev/docs/environments",
   "repository": {
     "type": "git",
     "url": "https://github.com/lapikit/eslint-config-lapikit"
